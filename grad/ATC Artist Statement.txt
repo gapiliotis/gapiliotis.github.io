@@ -1,0 +1,12 @@
+Our local coastline from Mexico, through California, Oregon and up to Washington is home to a forest most people have not visited. 
+These kelp forests provide a habitat for so many species as well as provide us with air to live. However, due to a multitude of events 
+and factors, there have been massive losses of this environment. This work involves learning more about our coasts and questioning our 
+role as a society to create an educational and immersive environment that seeks to bring awareness and understanding to the current 
+state of our coast. It is easy to lose sight of what is important, especially when most people have never seen it.
+
+Digital art gives us the opportunity to experience works as well as places from around the world. I combine the physical, real 
+world with that of the digital realm to create this immersive environment for any user or viewer. This work uses Unreal Engine 5, 
+a video game engine, which allows me to create 3D worlds and use techniques such as photogrammetry to turn the real world digital 
+through photography. 
+
+As an art educator, I have been able to use these skills to combine practice and education. 
