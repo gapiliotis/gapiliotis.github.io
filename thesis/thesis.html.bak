@@ -225,48 +225,38 @@ a{
 
 
 <body>
-    <!-- GRADIANT EFFECT ON TOP -->
+    
     <h1 id="main-heading" class="gradiant-effect"></h1>
-    <!-- MAIN DIVIDER WHICH CONTAINS ALL THE OTHER CATEGORY-->
+    
     <div id="main-box">
-        <!-- ABOUT ME SECTION -->
+        
         <div class="d-flex justify-content-center" id="about-me">
             <div class="d-flex">
                 <div class="flex-shrink-0">
-                    <!-- IMAGE OF THE PERSON-->
-                    <a href="/index.html">
+                   
+                    <a href="../index.html">
                     <img src="logo.png"> </a>
                 </div>
                 <div class="flex-grow-1 ms-5 name-heading">
-                    <!-- NAME OF THE PERSON -->
-                    <h1>About</h1>
-                    <!-- ABOUT HIM -->
+                    
+                    <h1>Thesis</h1>
+                    
                     <p class="gray-text">
-                       George Piliotis is a 3D artist specializing in creating interactive and explorable worlds with a focus on educating the user. He received his BFA in 3D Art & Design from Cal State East Bay and is currently pursuing his MFA in Digital Media Art. His goals are always to create high quality, well thought out digital spaces with a great attention to detail. He is passionate about history and the environment, which has inspired and broadened his design palette. Working with a team is one of his strongest areas and taking leadership roles to get a project done is something he excels at. In his free time, he loves learning about different cultures and civilizations, which has a great influence in and of themselves as well as expand his references to draw upon. He is endlessly exploring new fields, never afraid to dive into something new. <br>
+					x
                     </p>
                 </div>
             </div>
         </div>
 
         <div class="container-xxl gradiant-effect" style=" max-width: 1034px;" id="third-heading">
-            <h1>artist statement</h1>
+            <h1>Hubris</h1>
         </div>
 
-        <!-- PROJECT THAT HE OWNS -->
+        
         <div class="container-xxl" style="max-width: 1034px;" id="projects">
-            <div class="row row-cols-1 row-cols-md-2 g-3">
+            <div class="row row-cols-1 row-cols-md-1 g-1">
 
-                <div class="col">
-                    <div class="card mb-3 h-100" style="max-width: 18rem;">
-                        <div class="card-body">
-                            
-                                <h5 class="card-title"><img src="selfie.jpg" alt="selfie.jpg" width="250px""
-                                   </h5>
-                                <p class="card-text"></p>
-                            
-                        </div>
-                    </div>
-                </div>
+                
 
                 <div class="col">
                     <div class="card mb-3 h-300" style="max-width: 100rem;">
@@ -275,28 +265,172 @@ a{
                                 rel="noopener noreferrer">
                                 <h5 class="card-title">
 				
-                                        <p>Art has become much more accessible than any other time in history. Digital art gives us the opportunity 
-										to experience works as well as places from around the world. I combine the physical, real world with that 
-										of the digital realm to create immersive experiences for any user or viewer. My work is a mixture of 
-										traditional and digital sculpture which I now use to educate the user on current climate issues in our 
-										oceans. Aside from creating using bronze and ceramic clay, my work mainly uses digital programs such as 
-										Unreal Engine which allow me to create 3D worlds and techniques such as photogrammetry to turn the real 
-										world digital. In the past, my work was very figurative due to my fascination with the incredible feats 
-										the human body can achieve. This would transition to digital sculpting figures and would eventually lead 
-										me towards creating digital worlds. Some pieces of mine represent my culture which I am very proud of. 
-										The journey my parents went through to get from Greece to where they are today always pushes me to go 
-										beyond any limitations I place on myself. I am always learning more about my Greek roots and look to 
-										further explore our connection to the past and use my skills to immerse anyone in that ancient world 
-										to experience an artistic version of that time. Currently, my work involves learning more about our 
-										oceans and our coasts to create an educational and immersive environment. Through art I find understanding 
-										of our world and my goal is to share that knowledge with as many people as possible as knowledge belongs 
-										to everyone.  </p>
+                                        <p>
+										The importance of not only our coast, but the system in which our ocean ecosystem affects our
+lives, plays both a catastrophic and lifegiving role on our planet. Technology has allowed us to
+obtain a deeper understanding of our world by giving us new ways to experience it like through
+scuba diving and virtual reality. By obtaining a scuba diving certification through San Jose State
+University, I have been able to truly enjoy a greater depth of the world that has only been
+experienced by less than one percent of the human population. I have seen the effects of
+destroyed kelp forests first-hand, as well as the beauty of our oceans. Through VR, Hubris aims
+to give viewers an immersive experience that educates and questions their own knowledge and
+impact on the environment. As a technical artist, combining art and science is instrumental in
+protecting our planet as science is only as valuable as it is communicable. This work draws a
+comparison between past ruins and the effects of modern ruins. Soon our current societies will
+collapse and join the collection of ancient civilizations that the ocean has amassed. 
+<br>
+<br>
+My research delves into aspects of a school of thought known as cosmicism, a philosophy
+created by H.P. Lovecraft and is present in his literary works. Cosmicism is similar to nihilism in
+many ways, in its emphasis on the emptiness of everything, but with a focus on the
+insignificance of humanity rather than rejecting a higher purpose. There are aspects of cosmicism
+that apply more to my work than the broad definition, like fear of the unknown and the search for
+knowledge ending in disaster. I am exploring aspects of this fear and how our advancements as a
+society are leading to the collapse of our ecosystem. Hubris was inspired by my time 40 feet
+under the ocean surface and my newfound appreciation for the horror genre. Its ability to have us
+reflect on ourselves on what frightens us is instrumental in understanding the state of where we
+are as a species. Cosmicism makes us aware of the dangers of knowledge, especially when it is
+used carelessly. It is the ignorance of people that results in fear and misinformation, leading to
+the extreme catastrophizing of events. This attitude splits us apart and slows us down from
+progressing towards a healthier planet and species.
+										</p>
                                     </h5>
                                 <p class="card-text"></p>
                             </a>
                         </div>
                     </div>
                 </div>
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 10000s;
+}
+
+@keyframes fade {
+  from {opacity: 1} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="Hubris.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="shroud.jpg" style="width:80%" class="mx-auto d-block">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="sponges.jpg" style="width:90%" class="mx-auto d-block">
+  
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
 
                 
                 

@@ -219,20 +219,7 @@ a{
 
 /* -------------------------- */
 
-/* ANIMATION */
 
-
-@-webkit-keyframes hue {
-    from {
-        -webkit-filter: hue-rotate(0deg);
-    }
-
-    to {
-        -webkit-filter: hue-rotate(-360deg);
-    }
-}
-
-/* --------------- */
     </style>
 </head>
 
@@ -247,7 +234,8 @@ a{
             <div class="d-flex">
                 <div class="flex-shrink-0">
                     <!-- IMAGE OF THE PERSON-->
-                    <img src="logo.png">
+					<a href="index.html">
+                    <img src="logo.png"> </a>
                 </div>
                 <div class="flex-grow-1 ms-5 name-heading">
                     <!-- NAME OF THE PERSON -->
@@ -269,12 +257,12 @@ a{
             <div class="row row-cols-1 row-cols-md-2 g-4">
 
                 <div class="col">
-                    <div class="card mb-3 h-100" style="max-width: 30rem;">
+                    <div class="card md-3 h-100" style="max-width: 30rem;">
                         <div class="card-body">
                             <a href="thesis/thesis.html">
                                 <h5 class="card-title"><img src>
                                     Thesis</h5>
-                                <p class="card-text">insert image</p>
+                                <p class="card-text"><img src="thesis/Hubris.jpg" alt="hubris.jpg" width="450px"  </p>
                             </a>
                         </div>
                     </div>
