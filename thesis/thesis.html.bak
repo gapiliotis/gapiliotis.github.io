@@ -375,7 +375,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
-  <img src="hubris.JPG" style="width:100%" class="mx-auto d-block">
+  <img src="hubris.JPG" style="width:90%" class="mx-auto d-block">
   
 </div>
 
