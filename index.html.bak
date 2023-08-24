@@ -300,7 +300,7 @@ a{
                             <a href="about/about.html">
                                 <h5 class="card-title"><img
                                         src=> About </h5>
-                                <p class="card-text"><img src="selfie.jpg" alt="selfie.jpg" width="250px"</p>
+                                <p class="card-text"><img src="selfie.jpg" alt="selfie.jpg" width="250px" class="mx-auto d-block"</p>
                             </a>
                         </div>
                     </div>
