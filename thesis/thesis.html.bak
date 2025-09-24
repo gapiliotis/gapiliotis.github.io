@@ -20,7 +20,7 @@
 body,
 html {
     background-color: #111111;
-    color: white;
+    color: #white;
     height: 100%; 
 }
 
@@ -138,13 +138,7 @@ html {
   cursor: pointer;
 }
 
-.card:hover{
-    transform: scale(1.1);
-    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-    background-image: -webkit-linear-gradient(92deg, #02aab0, #00cdac);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-animation: hue 10s infinite linear;
+
 }
 
 .card-text {
@@ -235,11 +229,11 @@ a{
                 <div class="flex-shrink-0">
                    
                     <a href="../index.html">
-                    <img src="logo.png"> </a>
+                    <img src="logo2.png"> </a>
                 </div>
                 <div class="flex-grow-1 ms-5 name-heading">
                     
-                    <h1>Thesis</h1>
+                    <h1 style="color:white;">Thesis</h1>
                     
                     <p class="gray-text">
 					hu·bris (n.) excessive pride of self-confidence
@@ -248,8 +242,8 @@ a{
             </div>
         </div>
 
-        <div class="container-xxl gradiant-effect" style=" max-width: 1034px;" id="third-heading">
-            <h1>Hubris</h1>
+        <div class="container-xxl" style=" max-width: 1034px;" id="third-heading">
+            <h1 style="color:white;"> Hubris</h1>
         </div>
 
         
@@ -261,11 +255,10 @@ a{
                 <div class="col">
                     <div class="card mb-3 h-300" style="max-width: 100rem;">
                         <div class="card-body">
-                            <a href=""target="_blank"
-                                rel="noopener noreferrer">
+                            
                                 <h5 class="card-title">
 				
-                                        <p>
+                                        <p style="color:white;">
 										The importance of not only our coast, but the system in which our ocean ecosystem affects our
 lives, plays both a catastrophic and lifegiving role on our planet. Technology has allowed us to
 obtain a deeper understanding of our world by giving us new ways to experience it like through
@@ -342,7 +335,7 @@ img {vertical-align: middle;}
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #181818;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
@@ -369,39 +362,44 @@ img {vertical-align: middle;}
 }
 </style>
 </head>
-<body>
+
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="hubris.JPG" style="width:90%" class="mx-auto d-block">
+  <img src="Hubris.JPG" style="width:71%" "height 71%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <img src="shroud.JPG" style="width:80%" class="mx-auto d-block">
+  <img src="shroud.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <img src="sponges.JPG" style="width:90%" class="mx-auto d-block">
+  <p style="text-align:center; color:white;">Use phone camera to be linked to immersive video </p>
+  
+  <img src="qr-code.png" style="width:52%" "height 52%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <img src="Thesis_Show_Poster2.JPG" style="width:90%" class="mx-auto d-block">
+  <img src="sponges.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
-  <img src="qr-code.PNG" style="width:50%" class="mx-auto d-block">
+  <img src="Thesis_Show_Poster2.jpg" style="width:35%" "height 35%" class="mx-auto d-block">
   
 </div>
+
+
+
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
 <a class="next" onclick="plusSlides(1)">❯</a>
@@ -414,7 +412,8 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span> 
-  <span class="dot" onclick="currentSlide(5)"></span>   
+  <span class="dot" onclick="currentSlide(5)"></span>
+   
 </div>
 
 <script>

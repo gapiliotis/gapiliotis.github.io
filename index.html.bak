@@ -242,7 +242,8 @@ a{
                     <h1>Portfolio</h1>
                     <!-- ABOUT HIM -->
                     <p class="gray-text">
-                       Dedicated to Chaos: "Thank you for, well, everything."
+                       Dedicated to Chaos: "Thank you for, well, everything." </br> </br>
+					   Website currently undergoing changes. 
                     </p>
                 </div>
             </div>
@@ -262,7 +263,7 @@ a{
                             <a href="thesis/thesis.html">
                                 <h5 class="card-title"><img src>
                                     Thesis</h5>
-                                <p class="card-text"><img src="hubris.jpg" alt="hubris.jpg" width="450px"  </p>
+                                <p class="card-text"><img src="hubris.JPG" alt="hubris.jpg" width="450px">  </p>
                             </a>
                         </div>
                     </div>
@@ -275,7 +276,7 @@ a{
                                 <h5 class="card-title"><img
                                         src=></img>
                                     Graduate Work</h5>
-                                <p class="card-text">Insert photos</p>
+                                <p class="card-text"><img src="Poster_ATC2.JPG" alt="poster_atc2.jpg" width="250px" class="mx-auto d-block"></p>
                             </a>
                         </div>
                     </div>
@@ -288,7 +289,7 @@ a{
                                 <h5 class="card-title"><img
                                         src=
                                         ></img>Past Work</h5>
-                                <p class="card-text">Insert Images</p>
+                                <p class="card-text"><img src="DSC07625.JPG" alt="poster_atc2.jpg" width="250px" class="mx-auto d-block"></p>
                             </a>
                         </div>
                     </div>
