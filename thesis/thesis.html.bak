@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>GAbout</title>
+    <title>GThesis</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -325,7 +325,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="Hubris.jpg" style="width:71%" "height 71%" class="mx-auto d-block">
+  <img src="hubris.jpg" style="width:71%" "height 71%" class="mx-auto d-block">
   
 </div>
 
