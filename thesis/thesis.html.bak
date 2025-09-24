@@ -323,36 +323,37 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+	<div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
   <img src="project.JPG" style="width:71%" "height 71%" class="mx-auto d-block">
   
-</div>
+	</div>
 
-<div class="mySlides fade">
+	<div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
   <img src="shroud.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
   
-</div>
+	</div>
 
-<div class="mySlides fade">
+	<div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
   <p style="text-align:center; color:white;">Use phone camera to be linked to immersive video </p>
   
   <img src="qr-code.png" style="width:52%" "height 52%" class="mx-auto d-block">
   
-</div>
+	</div>
 
-<div class="mySlides fade">
+	<div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
   <img src="sponges.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
   
-</div>
+	</div>
 
-<div class="mySlides fade">
+	<div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
   <img src="Thesis_Show_Poster2.jpg" style="width:35%" "height 35%" class="mx-auto d-block">
   
+</div>
 </div>
 
 
