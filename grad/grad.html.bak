@@ -352,19 +352,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
-  <img src="Poster_ATC2.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
+  <img src="Poster_ATC2.jpg" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 7</div>
-  <img src="7352423536.JPG" style="width:71%" "height 71%" class="mx-auto d-block">
+  <img src="7352423536.jpg" style="width:71%" "height 71%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 7</div>
-  <img src="Poster_Information.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
+  <img src="Poster_Information.jpg" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
@@ -388,7 +388,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="algorithmic archive/aa3.JPG" style="width:71%" "height 71%" class="mx-auto d-block">
+  <img src="algorithmic archive/aa3.jpg" style="width:71%" "height 71%" class="mx-auto d-block">
   
 </div>
 

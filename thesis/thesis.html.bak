@@ -325,13 +325,13 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="Hubris.JPG" style="width:71%" "height 71%" class="mx-auto d-block">
+  <img src="Hubris.jpg" style="width:71%" "height 71%" class="mx-auto d-block">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <img src="shroud.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
+  <img src="shroud.jpg" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
@@ -345,7 +345,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <img src="sponges.JPG" style="width:40%" "height 40%" class="mx-auto d-block">
+  <img src="sponges.jpg" style="width:40%" "height 40%" class="mx-auto d-block">
   
 </div>
 
